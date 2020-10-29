@@ -1,0 +1,7 @@
+Realize 2 classes: First & Second
+- by calling function getClassname() at object First, U should see "First"
+- by calling function getClassname() at object Second, U should see "Second"
+- by calling function getLetter() at object First, U should see "A"
+- by calling function getLetter() at object Second, U should see "B"
+
+U can use for 2 classes only 3 methods!
