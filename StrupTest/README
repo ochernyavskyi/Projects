@@ -1,0 +1,6 @@
+Realize Strup test:
+
+- Display 5 strings by 5 words;
+- color | words - red, blue, green, yellow, lime, magenta, black, gold, gray, tomato
+- color and word shouldn't be similar (for example, word 'lime' could be colored at any color
+except lime), the colors are selected randomly.
