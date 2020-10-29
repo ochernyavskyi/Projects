@@ -1,0 +1,7 @@
+Realize console php script, which will receive as parameter a string of space devided natural digits.
+This script should display sorted above ascending array.
+Digits are devided minimum by 1 space, only digits can take part at sorting.
+
+Example:
+php index.php "1 -2 -3 4 5 -6f ss3 0 0 0 -0 0.0 0.05"
+Result should be: -3 -2 0 1 4 5
