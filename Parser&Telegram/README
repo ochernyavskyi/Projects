@@ -1,0 +1,4 @@
+This script is parsing www.rozetka.com.ua, finding new promotions like text & image and sending them 
+to your telegram. If the promotion has been sent already, then it won't copy it.
+It will send only new promotions.
+Don't forget to write your chat ID at telegram.php
