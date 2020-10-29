@@ -1,0 +1,4 @@
+This script is parcing www.rozetka.com.ua.
+It's finding the new promotions and send them via text and image to your telegram account.
+If the promotion has been sent to U before, it won't duplicate it.
+Don't forget to insert your chat identification at telegram.php
